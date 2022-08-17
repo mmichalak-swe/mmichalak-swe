@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi There!
-I am working on becoming a professional in the software engineering space. I have a strong background in Mechanical engineering, and have always had a passion for software. I am now focused on honing my software skills to fully transition my career to full-time SWE!
+I am constantly seeking to grow as a professional in the software engineering space. I have a strong background in Mechanical engineering, and have always had a passion for software.
 
 # About Me:
 - 🔭 I’m currently working on expanding my C++ and Python knowledge through practical applications on personal projects.
