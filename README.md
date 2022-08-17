@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi There!
-I am constantly seeking to grow as a professional in the software engineering space. I have a strong background in Mechanical engineering, and have always had a passion for software.
+I am constantly seeking to grow as a professional in the software engineering space. I have a strong background in Mechanical engineering, and have always had a passion for software. I am always learning something new, tinkering, or working on improving an existing project.
 
 # About Me:
 - 🔭 I’m currently working on expanding my C++ and Python knowledge through practical applications on personal projects.
